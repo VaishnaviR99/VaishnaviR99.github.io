@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3c390fa.css",
-    "main.js": "/static/js/main.8c6c44a7.js",
+    "main.css": "/static/css/main.32af7376.css",
+    "main.js": "/static/js/main.1b1e5b2e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/me2.jpeg": "/static/media/me2.ada581260101f55ccaa0.jpeg",
     "static/media/coding2.gif": "/static/media/coding2.78e7d6a09ad2fdf02dd3.gif",
     "static/media/me.jpeg": "/static/media/me.f4a30553247aa6cd7829.jpeg",
+    "static/media/hotstar.png": "/static/media/hotstar.3e365cf0063e80eefa13.png",
     "static/media/f.jpg": "/static/media/f.ba01dbc80085ba2fa473.jpg",
+    "static/media/airbnb.png": "/static/media/airbnb.dd495a1c3daf5bb83f70.png",
     "static/media/a.jpg": "/static/media/a.05777f9142037e6af8bd.jpg",
     "static/media/github.png": "/static/media/github.0fcace4e84cc40e8daf3.png",
     "static/media/mypdf.pdf": "/static/media/mypdf.2a56dc378567a4cdcd16.pdf",
@@ -17,12 +19,12 @@
     "static/media/css.png": "/static/media/css.02d225c7df0b28341d8d.png",
     "static/media/white_logo1.png": "/static/media/white_logo1.54c7f70740ff92571f2f.png",
     "index.html": "/index.html",
-    "main.e3c390fa.css.map": "/static/css/main.e3c390fa.css.map",
-    "main.8c6c44a7.js.map": "/static/js/main.8c6c44a7.js.map",
+    "main.32af7376.css.map": "/static/css/main.32af7376.css.map",
+    "main.1b1e5b2e.js.map": "/static/js/main.1b1e5b2e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3c390fa.css",
-    "static/js/main.8c6c44a7.js"
+    "static/css/main.32af7376.css",
+    "static/js/main.1b1e5b2e.js"
   ]
 }
