@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a11e685b.css",
-    "main.js": "/static/js/main.9a04b422.js",
+    "main.js": "/static/js/main.253dad1f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/coding2.gif": "/static/media/coding2.78e7d6a09ad2fdf02dd3.gif",
     "static/media/unicornT.png": "/static/media/unicornT.9d2e3a679a5861dff564.png",
@@ -11,7 +11,7 @@
     "static/media/airbnb.png": "/static/media/airbnb.dd495a1c3daf5bb83f70.png",
     "static/media/a.jpg": "/static/media/a.05777f9142037e6af8bd.jpg",
     "static/media/github.png": "/static/media/github.0fcace4e84cc40e8daf3.png",
-    "static/media/mypdf.pdf": "/static/media/mypdf.f81f7e69593d24409e50.pdf",
+    "static/media/pdf.pdf": "/static/media/pdf.b59ca9c0eb2574645429.pdf",
     "static/media/call.png": "/static/media/call.4056b71a959d76e9889b.png",
     "static/media/ut.png": "/static/media/ut.3dcbf5d913deb30eaded.png",
     "static/media/mail.png": "/static/media/mail.4350b0043dc798c46006.png",
@@ -21,11 +21,11 @@
     "static/media/white_logo1.png": "/static/media/white_logo1.54c7f70740ff92571f2f.png",
     "index.html": "/index.html",
     "main.a11e685b.css.map": "/static/css/main.a11e685b.css.map",
-    "main.9a04b422.js.map": "/static/js/main.9a04b422.js.map",
+    "main.253dad1f.js.map": "/static/js/main.253dad1f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a11e685b.css",
-    "static/js/main.9a04b422.js"
+    "static/js/main.253dad1f.js"
   ]
 }
